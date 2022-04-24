@@ -8,9 +8,9 @@ Software Developer in progress...
 *   ✉️  You can contact me at [kaiscer1@gmail.com](mailto:kaiscer1@gmail.com)
 *   🧠  I'm learning JavaScrip Frameworks, Python, MongoDB
 *   🤝  I'm open to collaborating on In any project that brings me knowledge and experience.
+  
 <a href="https://www.twitter.com/kaiscer1" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/kaiscer1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+src="https://img.shields.io/twitter/follow/kaiscer1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ### Skills
 
